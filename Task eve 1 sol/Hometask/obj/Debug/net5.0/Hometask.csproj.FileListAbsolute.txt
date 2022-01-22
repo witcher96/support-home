@@ -1,0 +1,16 @@
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\bin\Debug\net5.0\Hometask.exe
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\bin\Debug\net5.0\Hometask.deps.json
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\bin\Debug\net5.0\Hometask.runtimeconfig.json
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\bin\Debug\net5.0\Hometask.runtimeconfig.dev.json
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\bin\Debug\net5.0\Hometask.dll
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\bin\Debug\net5.0\ref\Hometask.dll
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\bin\Debug\net5.0\Hometask.pdb
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\obj\Debug\net5.0\Hometask.csproj.AssemblyReference.cache
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\obj\Debug\net5.0\Hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\obj\Debug\net5.0\Hometask.AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\obj\Debug\net5.0\Hometask.AssemblyInfo.cs
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\obj\Debug\net5.0\Hometask.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\obj\Debug\net5.0\Hometask.dll
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\obj\Debug\net5.0\ref\Hometask.dll
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\obj\Debug\net5.0\Hometask.pdb
+C:\Users\predator\Desktop\Code mesq\support-home\Task eve 1 sol\Hometask\obj\Debug\net5.0\Hometask.genruntimeconfig.cache
